@@ -1,0 +1,16 @@
+﻿{
+	"pageHeader": "Habra WinJS 8.1",
+	"serachFormSectionHeader": "Habraform",
+	"serachFormSecondNameLabel": "Habraname",
+	"serachFormSearchButton": "Search",
+	"serachFormClearButton": "Clean",
+	"serachFormNewClientButton": "New client",
+	"clientsListSectionHeader": "Clients List",
+	"serachFormSecondNamePlaceholder": "Habramafia",
+	"hubAppBarClearButton": "Clean",
+	"hubAppBarClearButtonTooltip": "Clean",
+	"hubAppBarAddNewClientButton": "New client",
+	"hubAppBarAddNewClientButtonTooltip": "New client",
+	"hubAppBarEditClientDataButton": "Edit client",
+	"hubAppBarEditClientDataButtonTooltip": "Edit client"
+}

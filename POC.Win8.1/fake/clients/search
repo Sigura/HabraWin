@@ -1,0 +1,285 @@
+﻿[
+    {
+	  "en-US": {
+		"name": "Rostislav Taranov",
+		"firstName": "Rostislav",
+		"secondName": "Taranov",
+		"middlename": "V."
+	  },
+      "ID": "6F4002C1-36BF-420a-A0EA-A4D8D88F3D11",
+      "name": "Ростислав Таранов",
+	  "email": "rtaranov@fake.com",
+	  "firstName": "Ростислав",
+	  "secondName": "Таранов",
+	  "middlename": "Всеволодович",
+	  "hasPhoto": true,
+	  "birthday": "1990-03-31T00:00:00",
+	  "birthplace": "Россия, Москва",
+	  "docType": 0,
+	  "docSerie": "2802",
+	  "docNumber": "678345",
+	  "docIssued": "ОВД района Выхино г.Москвы",
+	  "docDateIssued": "2004-04-10T00:00:00",
+	  "regAddress": {
+		  "country": "Россия",
+		  "region": "Москва",
+		  "city": "Москва",
+		  "street": "Тверская-Ямская",
+		  "house": "32",
+		  "corp": "",
+		  "flat": "42"
+	  },
+	  "resAddress": {
+		  "country": "Россия",
+		  "region": "Москва",
+		  "city": "Москва",
+		  "street": "Тверская-Ямская",
+		  "house": "32",
+		  "corp": "",
+		  "flat": "42"
+	  }
+    },
+    {
+	  "en-US": {
+		"name": "Vyacheslav Fedorov",
+		"firstName": "Vyacheslav",
+		"secondName": "Fedorov",
+		"middlename": "K."
+		
+	  },
+      "ID": "A2021DFE-1271-41d1-9A90-A64039A8A5E6",
+      "name": "Вячеслав Фёдоров",
+	  "email": "vfedorov@fake.com",
+	  "hasPhoto": true,
+	  "firstName": "Вячеслав",
+	  "secondName": "Фёдоров",
+	  "middlename": "Кандратьевич",
+	  "birthday": "1986-06-31T00:00:00",
+	  "birthplace": "Россия, Ростов",
+	  "docType": 0,
+	  "docSerie": "2502",
+	  "docNumber": "123456",
+	  "docIssued": "ОВД Центрального района г.Ростова",
+	  "docDateIssued": "2000-10-10T00:00:00",
+	  "regAddress": {
+		  "country": "Россия",
+		  "region": "Ростовская область",
+		  "city": "Ростов",
+		  "street": "Ленинский проспект",
+		  "house": "16",
+		  "corp": "",
+		  "flat": "32"
+	  },
+	  "resAddress": {
+		  "country": "Россия",
+		  "region": "Москва",
+		  "city": "Москва",
+		  "street": "улица Героев 1905 года",
+		  "house": "11",
+		  "corp": "",
+		  "flat": "45"
+	  }
+    },
+    {
+	  "en-US": {
+		"name": "Olga Ivanova",
+		"firstName": "Olga",
+		"secondName": "Ivanova",
+		"middlename": "S."
+	  },
+      "ID": "30BD3259-EF01-4ebb-ACEE-5065EB2885E1",
+      "name": "Иванова Ольга",
+	  "email": "oivanova@fake.com",
+	  "firstName": "Ольга",
+	  "hasPhoto": true,
+	  "secondName": "Иванова",
+	  "middlename": "Степановна",
+	  "birthday": "1998-03-31T00:00:00",
+	  "birthplace": "Россия, Тверь",
+	  "docType": 0,
+	  "docSerie": "2924",
+	  "docNumber": "678901",
+	  "docIssued": "ОВД Московского района г.Тверь",
+	  "docDateIssued": "2004-04-10T00:00:00",
+	  "regAddress": {
+		  "country": "Россия",
+		  "region": "Москва",
+		  "city": "Москва",
+		  "street": "Ферганский проезд",
+		  "house": "67",
+		  "corp": "",
+		  "flat": "34"
+	  },
+	  "resAddress": {
+		  "country": "Россия",
+		  "region": "Москва",
+		  "city": "Москва",
+		  "street": "Ферганский проезд",
+		  "house": "67",
+		  "corp": "",
+		  "flat": "34"
+	  }
+    },
+    {
+	  "en-US": {
+		"name": "Ivan Ivanovich",
+		"firstName": "Ivan",
+		"secondName": "Ivanovich",
+		"middlename": "I."
+	  },
+      "ID": "92D95EB6-7F55-4ad9-A3C5-442007D31D06",
+      "name": "Иванов Иван",
+	  "firstName": "Иван",
+	  "email": "iivanov@fake.com",
+	  "secondName": "Иванов",
+	  "middlename": "Иванович",
+	  "birthday": "1982-07-26T00:00:00",
+	  "birthplace": "Россия, Оренбург",
+	  "docType": 0,
+	  "docSerie": "2302",
+	  "docNumber": "234567",
+	  "docIssued": "ОВД Ленинградского района г.Оренбурга",
+	  "docDateIssued": "2000-08-12T00:00:00",
+	  "regAddress": {
+		  "country": "Россия",
+		  "region": "Оловская область",
+		  "city": "Орлов",
+		  "street": "ул. Оружейная",
+		  "house": "38",
+		  "corp": "",
+		  "flat": "85"
+	  },
+	  "resAddress": {
+		  "country": "Россия",
+		  "region": "Московская обалсть",
+		  "city": "Дзержинский",
+		  "street": "ул. Токарева",
+		  "house": "75",
+		  "corp": "",
+		  "flat": "184"
+	  }
+    },
+    {
+	  "en-US": {
+		"name": "Svetlana Ivanovna",
+		"firstName": "Svetlana",
+		"secondName": "Ivanovna",
+		"middlename": "V."
+		
+	  },
+      "ID": "C51C31F2-F986-4d47-A610-761E62CBFFA7",
+      "name": "Иванова Светлана",
+	  "email": "sivanova@fake.com",
+	  "firstName": "Светлана",
+	  "secondName": "Иванова",
+	  "middlename": "Игоревна",
+	  "birthday": "1989-03-31T00:00:00",
+	  "birthplace": "Россия, Москва",
+	  "docType": 0,
+	  "hasPhoto": true,
+	  "docSerie": "2802",
+	  "docNumber": "3284693",
+	  "docIssued": "ОВД Север-западного района города",
+	  "docDateIssued": "2003-08-12T00:00:00",
+	  "regAddress": {
+		  "country": "Россия",
+		  "region": "Москва",
+		  "city": "Москва",
+		  "street": "Тверская-Ямская",
+		  "house": "32",
+		  "corp": "",
+		  "flat": "42"
+	  },
+	  "resAddress": {
+		  "country": "Россия",
+		  "region": "Москва",
+		  "city": "Москва",
+		  "street": "Тверская-Ямская",
+		  "house": "32",
+		  "corp": "",
+		  "flat": "42"
+	  }
+    },
+    {
+	  "en-US": {
+		"name": "Tatyana Stepanova",
+		"firstName": "Tatyana",
+		"secondName": "Stepanova",
+		"middlename": "V."
+		
+	  },
+      "ID": "9B85F8DB-62D9-4cb0-ADEC-5F78EB089394",
+	  "hasPhoto": true,
+      "name": "Татьяна Степановна",
+	  "email": "tstepanova@fake.com",
+	  "firstName": "Татьяна",
+	  "secondName": "Степановна",
+	  "middlename": "Александровна",
+	  "birthday": "1992-03-31T00:00:00",
+	  "birthplace": "Россия, Москва",
+	  "docType": 0,
+	  "docSerie": "2802",
+	  "docNumber": "678345",
+	  "docIssued": "ОВД Выхино",
+	  "docDateIssued": "2006-01-27T00:00:00",
+	  "regAddress": {
+		  "country": "Россия",
+		  "region": "Москва",
+		  "city": "Москва",
+		  "street": "Тверская-Ямская",
+		  "house": "32",
+		  "corp": "",
+		  "flat": "42"
+	  },
+	  "resAddress": {
+		  "country": "Россия",
+		  "region": "Москва",
+		  "city": "Москва",
+		  "street": "Тверская-Ямская",
+		  "house": "32",
+		  "corp": "",
+		  "flat": "42"
+	  }
+    },
+    {
+	  "en-US": {
+		"name": "Alexandra Petrovna",
+		"firstName": "Alexandra",
+		"secondName": "Petrovna",
+		"middlename": "V."
+		
+	  },
+      "ID": "EEB623DC-31C5-496e-B060-0DF31EB914A9",
+	  "hasPhoto": true,
+      "name": "Александра Петровна",
+	  "email": "apetrova@fake.com",
+	  "firstName": "Александра",
+	  "secondName": "Петровна",
+	  "middlename": "Ильинична",
+	  "birthday": "1956-07-20T00:00:00",
+	  "birthplace": "Россия, Москва",
+	  "docType": 0,
+	  "docSerie": "1020",
+	  "docNumber": "743936",
+	  "docIssued": "ОВД Выхино",
+	  "docDateIssued": "1974-09-28T00:00:00",
+	  "regAddress": {
+		  "country": "Россия",
+		  "region": "Москва",
+		  "city": "Москва",
+		  "street": "Тверская-Ямская",
+		  "house": "32",
+		  "corp": "",
+		  "flat": "42"
+	  },
+	  "resAddress": {
+		  "country": "Россия",
+		  "region": "Москва",
+		  "city": "Москва",
+		  "street": "Тверская-Ямская",
+		  "house": "32",
+		  "corp": "",
+		  "flat": "42"
+	  }
+    }
+]

@@ -1,0 +1,13 @@
+﻿{
+  "search": {
+    "length": 1,
+    "method": "POST",
+    "url": "clients/search",
+    "outputType": "System.Collections.Generic.IEnumerable`1[[RSB.Contracts.Client, RSB.Contracts]]",
+    "inputTypes": {
+      "search": "HabraWin.Contracts.ClientSearchQuery, HabraWin.Contracts"
+    },
+    "outputFormat": "json",
+    "requestFormat": "json"
+  }
+}

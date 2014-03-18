@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    
+    <link href="hub.css" rel="stylesheet" />
+
+    <script src="hub.js"></script>
+    
+</head>
+<body>
+    <div id="main-page" class="hubpage fragment">
+        <header aria-label="Header content" role="banner">
+            <button data-win-control="WinJS.UI.BackButton"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle" data-win-res="{ textContent: 'pageHeader' }"></span>
+            </h1>
+        </header>
+        <section aria-label="Main content" role="main">
+            <div class="hub" data-win-control="WinJS.UI.Hub">
+                <div class="form-hub-section" data-win-control="WinJS.UI.HubSection" data-win-options="{ isHeaderStatic: true }" data-win-res="{winControl: {'header': 'serachFormSectionHeader'} }">
+                    <form role="form" id="main-search-form" data-win-control="HabraWin.ClientSearchForm">
+                        <div class="form-group"><label for="second-name"><span data-win-res="{textContent: 'serachFormSecondNameLabel'}"></span></label><input data-win-res="{attributes: { 'placeholder' : 'serachFormSecondNamePlaceholder' }}" spellcheck="true" type="text" name="secondName" id="second-name" /></div>
+                        <div class="main-search-form-buttons form-group">
+                            <button type="button" name="search" class="button" id="search"><span data-win-res="{textContent: 'serachFormSearchButton'}"></span></button>
+                            <button type="reset" name="clear" class="button" id="clear"><span data-win-res="{textContent: 'serachFormClearButton'}"></span></button>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="clients-list-hub-section" data-win-control="WinJS.UI.HubSection" data-win-res="{ winControl: {'header': 'clientsListSectionHeader'} }"
+                     data-win-options="{ isHeaderStatic: true }">
+                    <div class="client-search-item-template" data-win-control="WinJS.Binding.Template" style="display: none;">
+                        <div class="client-item">
+                            <div class="client-info">
+                                <div class="client-photo"><img data-win-bind="alt: name; src: this HabraWin.Converters.clientPhoto;" /></div>
+                                <div class="client-name" data-win-bind="innerText: name"></div>
+                            </div>
+                            <div class="decoration-bottom-line"></div>
+                        </div>
+                    </div>
+                    <div class="client-search-result-control" data-win-control="HabraWin.ClientSearchResult">
+                        <div class="client-search-result-list-view"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <div id="appbar" data-win-control="WinJS.UI.AppBar">
+        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'clear', label:'clear', icon:'clear',section:'selection',tooltip:'Clear saved'}" data-win-res="{winControl: {label:'hubAppBarClearButton', tooltip:'hubAppBarClearButtonTooltip'}}" type="button"></button>
+    </div>
+</body>
+</html>

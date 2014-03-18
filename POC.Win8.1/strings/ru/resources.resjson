@@ -1,0 +1,20 @@
+﻿{
+	"pageHeader": "Habra WinJS 8.1",
+	"serachFormSectionHeader": "Хабраформа",
+	"serachFormSecondNameLabel": "Хабраимя",
+	"serachFormSearchButton": "Искать",
+	"serachFormClearButton": "Очистить",
+	"serachFormNewClientButton": "Новый клиент",
+	"clientsListSectionHeader": "Клиенты",
+	"serachFormSecondNamePlaceholder": "Хабрасемья",
+	"hubAppBarClearButton": "Очистить",
+	"hubAppBarClearButtonTooltip": "Очистить форму",
+	"hubAppBarAddNewClientButton": "Добавить заявку",
+	"hubAppBarAddNewClientButtonTooltip": "Добавить новую заявку",
+	"hubAppBarEditClientDataButton": "Изменить заявку",
+	"hubAppBarEditClientDataButtonTooltip": "Изменить новую заявку",
+	"tileMessageAccepted": "Заявка одобрена",
+	"tileMessageDenied": "Заявка НЕ одобрена",
+	"clientInfo": "Habroman",
+	"clientFormNameLabel": "Имя"
+}
