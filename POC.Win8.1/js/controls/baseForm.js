@@ -5,8 +5,6 @@
         init: function (element, options) {
             var me = this;
 
-            //me.clearForm();
-
             me.defineElements(element);
             me.defineEvents();
             me.subscribe();

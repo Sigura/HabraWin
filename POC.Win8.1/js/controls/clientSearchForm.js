@@ -24,7 +24,7 @@
             };
 
             me.buttons = {
-                clear: element.querySelector('button[name=clear]')//,
+                clear: element.querySelector('button[name=clear]')
             };
 
 

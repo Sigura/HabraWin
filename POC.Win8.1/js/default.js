@@ -5,7 +5,7 @@
     'use strict';
 
     winJs.Binding.optimizeBindingReferences = true;
-
+    // создаём наше приложение
     var app = new application.Instance({
         activation: windows.ApplicationModel.Activation,
         app: winJs.Application,
@@ -14,7 +14,9 @@
         ui: winJs.UI
     });
 
+    // делаем доступной шину сообщений в пространстве WinJS
     winJs.bus = new habraWin.MessageBus();
+    // делаем приложение доступным в глобальном пространстве имён
     window.app = app;
 
     var isFake = app.isFake = true;
@@ -32,7 +34,7 @@
     app.addEventListener('after-start', function() {
         habraWin.Tile.updateTile();
     });
-
+    // запускаем
     app.start();
 
 })(Application, WinJS, HabraWin, Windows, window);

@@ -33,6 +33,7 @@
                 return proxy.search(me.condition);
             });
         },
+        // IListDataSource 
         getCount: function () {
 
             var me = this;
@@ -77,6 +78,7 @@
 
             return result;
         },
+        // IListDataSource 
         itemsFromIndex: function (requestIndex, countBefore, countAfter) {
             var me = this;
 
